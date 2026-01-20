@@ -4,9 +4,11 @@ import call from "../assets/call.png";
 import { NavLink } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaLongArrowAltUp } from "react-icons/fa";
+import { useLanguage } from "../LanguageContext.js";
 
 function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
+    const { t, toggleLanguage, lang } = useLanguage();
 
     const handleMenuClick = () => {
         setMenuOpen(false);
@@ -20,9 +22,9 @@ function Navbar() {
                 <div className="nav-brand">
                     <img className="logo-icon" src={logo} alt="Logo" />
                     <div className="main-brand-name">
-                        <span className="brand-name">Advocate Palani Muthu</span>
+                        <span className="brand-name">{t("advocate")} {t("advocate_name")}</span>
                         <span className="sub-brand-name">
-                            High Court & District Court
+                            {t("court")}
                         </span>
                     </div>
                 </div>
@@ -31,26 +33,31 @@ function Navbar() {
                 <ul className="nav-menu">
                     <li>
                         <NavLink to="/" className={({ isActive }) => isActive ? "active-link" : ""}>
-                            Home
+                            {t("home")}
                         </NavLink>
                     </li>
                     <li>
                         <NavLink to="/about" className={({ isActive }) => isActive ? "active-link" : ""}>
-                            About
+                            {t("about")}
                         </NavLink>
                     </li>
                     <li>
                         <NavLink to="/contact" className={({ isActive }) => isActive ? "active-link" : ""}>
-                            Contact
+                            {t("contact")}
                         </NavLink>
                     </li>
                     <li className="nav-list">
                         <NavLink to="/contact">
                             <button className="btn-primary">
                                 <img className="call-icon" src={call} alt="Call" />
-                                Consult Now
+                                {t("consult_now")}
                             </button>
                         </NavLink>
+                    </li>
+                    <li>
+                        <button onClick={toggleLanguage}>
+                            {lang === "en" ? "தமிழ்" : "English"}
+                        </button>
                     </li>
                 </ul>
 
@@ -65,26 +72,31 @@ function Navbar() {
                         <ul className="mobile-nav">
                             <li>
                                 <NavLink to="/" className={({ isActive }) => isActive ? "active-link" : ""} onClick={handleMenuClick}>
-                                    Home
+                                    {t("home")}
                                 </NavLink>
                             </li>
                             <li>
                                 <NavLink to="/about" className={({ isActive }) => isActive ? "active-link" : ""} onClick={handleMenuClick}>
-                                    About
+                                    {t("about")}
                                 </NavLink>
                             </li>
                             <li>
                                 <NavLink to="/contact" className={({ isActive }) => isActive ? "active-link" : ""} onClick={handleMenuClick}>
-                                    Contact
+                                    {t("contact")}
                                 </NavLink>
                             </li>
                             <li className="nav-list">
                                 <NavLink to="/contact" onClick={handleMenuClick}>
                                     <button className="btn-primary">
                                         <img className="call-icon" src={call} alt="Call" />
-                                        Consult Now
+                                        {t("consult_now")}
                                     </button>
                                 </NavLink>
+                            </li>
+                            <li>
+                                <button onClick={toggleLanguage}>
+                                    {lang === "en" ? "தமிழ்" : "English"}
+                                </button>
                             </li>
                         </ul>
                     </div>

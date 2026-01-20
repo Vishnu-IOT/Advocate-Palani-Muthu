@@ -1,12 +1,14 @@
 import React from 'react'
+import { useLanguage } from "../../LanguageContext.js";
 
 function ContactHerosection() {
+    const { t } = useLanguage();
     return (
         <section className="contact-hero">
             <div className="contact-container">
-                <h1 className="contact-hero-title">Contact Us</h1>
+                <h1 className="contact-hero-title">{t("contact-us")}</h1>
                 <p className="contact-hero-subtitle">
-                    Get in touch for professional legal consultation and expert advice.
+                   {t("contactsub")}
                 </p>
             </div>
         </section>

@@ -68,11 +68,27 @@ button {
     box-shadow: var(--shadow-md);
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-primarys:hover {
     transform: translateY(-2px);
     box-shadow: var(--shadow-lg);
+}
+
+.btn-primarys {
+    background: var(--gradient-primary);
+    color: var(--white);
+    padding: 16px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 12px;
+    box-shadow: var(--shadow-md);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 .btn-primarymod {
@@ -261,27 +277,28 @@ button {
 
 /* Hero Section */
 .hero {
-    background: var(--gradient-dark);
+    /* background: var(--gradient-dark); */
     color: var(--white);
     padding: 80px 0;
     height: 650px;
     width: 100%;
     display: flex;
     align-items: center;
+    background-image: url("../assets/profilebg.png");
 }
 
 .hero-content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.2fr 1fr;
     gap: 100px;
     align-items: center;
 }
 
 .hero-subtitle {
-    background-color: var(--hover-color);
+    background-color: transparent;
     border: 1px solid transparent;
     border-radius: 10px;
-    width: 60%;
+    width: 70%;
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 16px;
@@ -297,14 +314,15 @@ button {
 }
 
 .hero-title {
-    font-size: 51px;
+    font-size: 40px;
     font-weight: 800;
-    line-height: 1.2;
+    line-height: 1.4;
     margin-bottom: 12px;
 }
 
 .highlight {
     color: var(--accent-color);
+    font-size: 40px;
 }
 
 .hero-degree {
@@ -327,6 +345,7 @@ button {
     font-size: 15px;
     line-height: 1.8;
     margin-bottom: 32px;
+    text-align: justify;
 }
 
 .hero-buttons {
@@ -385,7 +404,7 @@ button {
 
 /* Practice Areas Section */
 .practice-areas {
-    padding: 50px 0;
+    padding: 80px 0;
     background: var(--light-bg);
 }
 
@@ -437,7 +456,7 @@ button {
     box-shadow: var(--shadow-xl);
 }
 
-.area-card a{
+.area-card a {
     font-size: 14px;
 }
 
@@ -479,7 +498,7 @@ a {
     align-items: center;
     justify-content: start;
     gap: 20px;
-    width: 22vh;
+    width: fit-content;
     padding: 0px 8px;
     height: 5vh;
     border-radius: 8px;
@@ -920,7 +939,7 @@ a {
 
 .footer-grid {
     display: grid;
-    grid-template-columns: 2fr 1fr 2fr 1.5fr;
+    grid-template-columns: 2fr 1.3fr 1.7fr 1.5fr;
     gap: 40px;
     margin-bottom: 40px;
 }
@@ -1107,7 +1126,7 @@ a {
 
     /* Navigation */
     .brand-name {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .sub-brand-name {
@@ -1372,7 +1391,7 @@ a {
     }
 
     .brand-name {
-        font-size: 15px;
+        font-size: 14px;
     }
 
     .sub-brand-name {
@@ -1680,11 +1699,11 @@ a {
     }
 
     .brand-name {
-        font-size: 20px;
+        font-size: 14px;
     }
 
     .sub-brand-name {
-        font-size: 14px;
+        font-size: 10px;
     }
 
     .call-icon {
@@ -1707,13 +1726,17 @@ a {
     .hero-content {
         display: flex;
         flex-direction: column;
-        gap: 20px;
+        gap: 30px;
     }
 
     .hero-title {
-        font-size: 28px;
-        line-height: 1.3;
+        font-size: 22px;
+        line-height: 1.5;
         margin-bottom: 10px;
+    }
+
+    .highlight{
+        font-size: 24px;
     }
 
     .hero-subtitle {
@@ -1826,7 +1849,7 @@ a {
 
     .area-rating {
         gap: 14px;
-        padding: 0;
+        padding: 0px 10px;
     }
 
     .stars {
@@ -2109,7 +2132,7 @@ a {
 
     .footer-col ul li {
         margin-bottom: 8px;
-         font-size: 14px;
+        font-size: 14px;
     }
 
     .footer-col ul li a,

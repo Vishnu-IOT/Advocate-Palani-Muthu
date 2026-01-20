@@ -1,0 +1,356 @@
+{
+  "en": {
+    "advocate": "Advocate",
+    "advocate_name": "R. Palani Muthu",
+    "court_type": "High Court & District Court",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "consult_now": "Consult Now",
+    "court": "High Court & District Court",
+    "reg": "Bar Council Reg:",
+    "exp": " Years Experience",
+    "desc": "Dedicated to providing strategic legal solutions with integrity. Specializing in High Court and District Court litigations with a proven track record of success.",
+    "all": "Justice for All",
+    "trusted": "Trusted Legal Council Since 1997",
+    "bookconsult": "Book Consultation",
+    "advocatecontact": "Advocate Contact",
+    "practice_area": "View Practice Areas",
+    "practice_title": "Legal Practice Areas",
+    "practice_subtitle": "Comprehensive legal services tailored to meet your specific needs across various domains of law.",
+    "practice_areas": {
+      "civil": {
+        "title": "Civil Court",
+        "cases": "Property disputes, contracts, and civil litigation matters."
+      },
+      "criminal": {
+        "title": "Criminal Court",
+        "cases": "Defense representation, bail matters, and criminal trials."
+      },
+      "family": {
+        "title": "Family / Divorce Court",
+        "cases": "Marriage registration, divorce, custody, and maintenance."
+      },
+      "motor": {
+        "title": "Motor Accident Cases",
+        "cases": "Compensation claims, insurance disputes, and accident liability cases."
+      },
+      "labour": {
+        "title": "Workmen Compensation and Consumer Court",
+        "cases": "Employment disputes, wrongful termination, and compliance."
+      },
+      "corporate": {
+        "title": "Corporate Cases",
+        "cases": "Company registration, agreements, and corporate compliance."
+      }
+    },
+    "experience_title": "Experience & Expertise",
+    "experience_subtitle": "With over 28 years of dedicated legal practice, I bring extensive experience across multiple domains of law.",
+    "experience_items": {
+      "court": {
+        "title": "Court Experience",
+        "description": "Regular practice as an advocate for the past 28 years in Civil and Criminal side in various courts, especially Jayankondam and Ariyalur Courts."
+      },
+      "clients": {
+        "title": "Clients",
+        "description": "Representing individuals, small businesses, and large corporate entities with equal dedication."
+      },
+      "case_highlights": {
+        "title": "Case Highlights",
+        "description": "Successfully handled 500+ civil disputes and 200+ criminal defense cases with a high success rate."
+      }
+    },
+    "process_title": "Legal Consultation Process",
+    "process_steps": {
+      "step1": {
+        "title": "Initial Consultation",
+        "description": "Meeting to understand the facts and legal merits of your case."
+      },
+      "step2": {
+        "title": "Case Analysis",
+        "description": "In-depth research and strategy formulation for the best outcome."
+      },
+      "step3": {
+        "title": "Documentation",
+        "description": "Drafting necessary legal notices, petitions, or agreements."
+      },
+      "step4": {
+        "title": "Representation",
+        "description": "Filing and representing your interests in the court of law."
+      }
+    },
+    "achievement_title": "Achievements & Recognition",
+    "achievement_stats": {
+      "years": "Years of Practice",
+      "cases": "Cases Handled",
+      "success": "Success Rate",
+      "rated": "Rated Advocate"
+    },
+    "achievement_awards": {
+      "award1": {
+        "title": "Landmark Civil Litigation – O.S. No. 13/2006",
+        "description": "Successfully handled a high-profile civil suit against Don Bosco Higher Secondary School before the Perambalur District Court, followed by execution proceedings before the District Munsif Court, Jayankondam, ensuring effective enforcement of the decree."
+      },
+      "award2": {
+        "title": "Acquittal in Section 302 IPC Criminal Cases",
+        "description": "Defended multiple serious criminal cases under Section 302 of the Indian Penal Code before the District and Sessions Courts at Trichy, Perambalur, and Ariyalur, securing acquittal in all cases."
+      }
+    },
+    "client": "Client Testimonials",
+    "reviews": "What our clients say about our legal services.",
+    "legal": "Legal Insights",
+    "articles": "View All Articles",
+    "abouthero": "About The Advocate",
+    "aboutsubtitle": "Professional background, office details, and commitment to legal excellence.",
+    "office_info_title": "Office Information",
+    "office_address_title": "Office Address",
+    "office_view_map": "View address on Google Maps",
+    "office_timings_title": "Office Timings",
+    "office_timings": {
+      "mon_fri": "Mon - Fri: 9:00 AM - 6:00 PM",
+      "saturday": "Saturday: 9:00 AM - 1:00 PM",
+      "sunday": "Sunday: By Appointment Only"
+    },
+    "office_proximity_title": "Court Proximity",
+    "office_proximity": {
+      "high_court": "High Court: 0.5 km",
+      "city_civil": "City Civil Court: 0.8 km",
+      "family_court": "Family Court: 1.0 km",
+      "egmore": "Egmore Court: 3.5 km"
+    },
+    "academic_title": "Academic Course",
+    "academic_table": {
+      "course": "Course",
+      "institution": "Institution",
+      "university": "University",
+      "year": "Year of Completion",
+      "percentage": "Percentage of Marks"
+    },
+    "contact-us": "Contact Us",
+    "contactsub": "Get in touch for professional legal consultation and expert advice.",
+    "contact_details_title": "Contact Details",
+    "contact_phone_title": "Phone",
+    "contact_email_title": "Email",
+    "contact_whatsapp_title": "WhatsApp",
+    "contact_whatsapp_status": "Available 24x7",
+    "consultation_title": "Consultation Info",
+    "consultation_appointment": "Appointment Required",
+    "consultation_yes": "Yes",
+    "consultation_fee": "Consultation Fee",
+    "consultation_amount": "₹1,000",
+    "consultation_note": "* Fees adjustable against case filing charges if engaged.",
+    "appointment_title": "Book an Appointment",
+    "appointment_subtitle": "Fill out the form below to request a free consultation. We will get back to you within 24 hours.",
+    "form_full_name": "Full Name",
+    "form_full_name_placeholder": "Enter your full name",
+    "form_mobile": "Mobile Number",
+    "form_mobile_placeholder": "Enter your mobile number",
+    "form_case_type": "Case Type",
+    "form_case_select": "Select Case Type",
+    "form_case_criminal": "Criminal Law",
+    "form_case_civil": "Civil Law",
+    "form_case_family": "Family Law",
+    "form_case_property": "Property Law",
+    "form_case_corporate": "Corporate Law",
+    "form_case_other": "Other",
+    "form_preferred_time": "Preferred Time",
+    "form_preferred_time_placeholder": "e.g., Morning, Afternoon",
+    "form_case_description": "Case Description",
+    "form_case_description_placeholder": "Brief description of your legal issue...",
+    "form_submit": "Submit Consultation Request",
+    "form_disclaimer": "*Submitting this form does not create an attorney-client relationship.",
+    "form_success_message": "Consultation request submitted successfully! We will contact you within 24 hours.",
+    "footer_brand_name": "Advocate Palani Muthu",
+    "footer_brand_sub": "Legal Services",
+    "footer_desc": "Providing expert legal representation with integrity and dedication. Specializing in Civil, Criminal, and Corporate Law.",
+    "footer_quick_links": "Quick Links",
+    "footer_home": "Home",
+    "footer_about": "About Profile",
+    "footer_contact": "Contact",
+    "footer_services": "Services",
+    "footer_contact_title": "Contact Office",
+    "footer_address": "S.S.Complex, OPP. Indian Bank, Co-Optex Lane, Jayankondam, Udaiyarpalayam, Ariyalur Dt - 621 802.",
+    "footer_phone": "+91 94430 94377",
+    "footer_email": "rpalani71@gmail.com",
+    "footer_legal_info": "Legal Info",
+    "footer_bar_reg": "Bar Council Reg: 989/1997",
+    "footer_experience": "Experience: 25+ Years"
+  },
+  "ta": {
+    "advocate": "வழக்கறிஞர்",
+    "advocate_name": "ஆர். பழனி முத்து",
+    "court_type": "உயர் நீதிமன்றம் மற்றும் மாவட்ட நீதிமன்றம்",
+    "home": "முகப்பு",
+    "about": "எங்களை பற்றி",
+    "contact": "தொடர்பு",
+    "consult_now": "ஆலோசனை பெற",
+    "court": "உயர் நீதிமன்றம் & மாவட்ட நீதிமன்றம்",
+    "reg": "பார் கவுன்சில் பதிவு:",
+    "exp": "வருட அனுபவம்",
+    "desc": "நேர்மையுடன் கூடிய மூலோபாய சட்ட தீர்வுகளை வழங்குவதற்கு அர்ப்பணிப்புடன் உள்ளது. நிரூபிக்கப்பட்ட வெற்றிப் பதிவுடன் உயர் நீதிமன்றம் மற்றும் மாவட்ட நீதிமன்ற வழக்குகளில் நிபுணத்துவம் பெற்றவர்.",
+    "all": "அனைவருக்கும் நீதி",
+    "trusted": "1997 முதல் நம்பகமான சட்ட கவுன்சில்",
+    "bookconsult": "ஆலோசனைக்கு முன்பதிவு செய்யுங்கள்",
+    "advocatecontact": "வழக்கறிஞர் தொடர்பு",
+    "practice_area": "பயிற்சி பகுதி",
+    "practice_title": "சட்ட நடைமுறை துறைகள்",
+    "practice_subtitle": "சட்டத்தின் பல்வேறு துறைகளில் உங்கள் தேவைகளுக்கு ஏற்ப முழுமையான சட்ட சேவைகள்.",
+    "practice_areas": {
+      "civil": {
+        "title": "சிவில் நீதிமன்றம்",
+        "cases": "சொத்து தகராறுகள், ஒப்பந்தங்கள் மற்றும் சிவில் வழக்குகள்."
+      },
+      "criminal": {
+        "title": "குற்றவியல் நீதிமன்றம்",
+        "cases": "பாதுகாப்பு வழக்குரை, ஜாமீன் மனுக்கள் மற்றும் குற்றவியல் விசாரணைகள்."
+      },
+      "family": {
+        "title": "குடும்ப / விவாகரத்து நீதிமன்றம்",
+        "cases": "திருமண பதிவு, விவாகரத்து, குழந்தை காவல் மற்றும் பராமரிப்பு."
+      },
+      "motor": {
+        "title": "வாகன விபத்து வழக்குகள்",
+        "cases": "ஈடு கோரல்கள் மற்றும் காப்பீட்டு தகராறுகள்."
+      },
+      "labour": {
+        "title": "தொழிலாளர் இழப்பீடு மற்றும் நுகர்வோர் நீதிமன்றம்",
+        "cases": "வேலை தொடர்பான தகராறுகள் மற்றும் தவறான பணிநீக்கம்."
+      },
+      "corporate": {
+        "title": "நிறுவன வழக்குகள்",
+        "cases": "நிறுவன பதிவு மற்றும் ஒப்பந்தங்கள்."
+      }
+    },
+    "experience_title": "அனுபவம் மற்றும் நிபுணத்துவம்",
+    "experience_subtitle": "28 ஆண்டுகளுக்கும் மேலான சட்ட அனுபவத்துடன் பல்வேறு சட்ட துறைகளில் சேவை.",
+    "experience_items": {
+      "court": {
+        "title": "நீதிமன்ற அனுபவம்",
+        "description": "கடந்த 28 ஆண்டுகளாக சிவில் மற்றும் குற்றவியல் வழக்குகளில் ஜெயங்கொண்டம் மற்றும் அரியலூர் நீதிமன்றங்களில் வழக்கறிஞராக பணியாற்றி வருகிறேன்."
+      },
+      "clients": {
+        "title": "வாடிக்கையாளர்கள்",
+        "description": "தனிநபர்கள் மற்றும் நிறுவனங்களை சமமான அர்ப்பணிப்புடன் பிரதிநிதித்துவப்படுத்துகிறேன்."
+      },
+      "case_highlights": {
+        "title": "வழக்கு சிறப்பம்சங்கள்",
+        "description": "500க்கும் மேற்பட்ட சிவில் மற்றும் 200க்கும் மேற்பட்ட குற்றவியல் வழக்குகள் வெற்றிகரமாக கையாளப்பட்டுள்ளன."
+      }
+    },
+    "process_title": "சட்ட ஆலோசனை நடைமுறை",
+    "process_steps": {
+      "step1": {
+        "title": "ஆரம்ப ஆலோசனை",
+        "description": "வழக்கின் உண்மைகள் மற்றும் சட்டப் பொருத்தங்களை புரிந்துகொள்ளும் சந்திப்பு."
+      },
+      "step2": {
+        "title": "வழக்கு ஆய்வு",
+        "description": "சிறந்த முடிவை பெற விரிவான ஆய்வு."
+      },
+      "step3": {
+        "title": "ஆவணத் தயாரிப்பு",
+        "description": "மனுக்கள் மற்றும் சட்ட ஆவணங்கள் தயாரித்தல்."
+      },
+      "step4": {
+        "title": "நீதிமன்ற பிரதிநிதித்துவம்",
+        "description": "நீதிமன்றத்தில் திறம்பட வழக்கு நடத்துதல்."
+      }
+    },
+    "achievement_title": "சாதனைகள் மற்றும் பாராட்டுகள்",
+    "achievement_stats": {
+      "years": "ஆண்டுகளான வழக்குரைஞர் அனுபவம்",
+      "cases": "கையாளப்பட்ட வழக்குகள்",
+      "success": "வெற்றி விகிதம்",
+      "rated": "முன்னணி வழக்கறிஞர்"
+    },
+    "achievement_awards": {
+      "award1": {
+        "title": "முக்கிய சிவில் வழக்கு – O.S. எண் 13/2006",
+        "description": "பெரம்பலூர் மாவட்ட நீதிமன்றத்தில் டான் போஸ்கோ மேல்நிலைப் பள்ளிக்கு எதிராக உயர்மட்ட சிவில் வழக்கை வெற்றிகரமாக கையாள்ந்து, அதன் தொடர்ச்சியாக ஜெயங்கொண்டம் மாவட்ட முன்சிப் நீதிமன்றத்தில் செயலாக்க மனுவையும் நிறைவேற்றியுள்ளார்."
+      },
+      "award2": {
+        "title": "ஐ.பி.சி பிரிவு 302 குற்றவியல் வழக்குகளில் விடுதலை",
+        "description": "திருச்சி, பெரம்பலூர் மற்றும் அரியலூர் மாவட்ட மற்றும் அமர்வு நீதிமன்றங்களில் நடைபெற்ற பல்வேறு ஐ.பி.சி பிரிவு 302 குற்றவியல் வழக்குகளை திறம்பட கையாள்ந்து அனைத்து வழக்குகளிலும் விடுதலை பெற்றுள்ளார்."
+      }
+    },
+    "client": "வாடிக்கையாளர் சான்றுகள்",
+    "reviews": "எங்கள் சட்ட சேவைகள் பற்றி எங்கள் வாடிக்கையாளர்கள் என்ன சொல்கிறார்கள்.",
+    "legal": "சட்ட நுண்ணறிவு",
+    "articles": "அனைத்து கட்டுரைகளையும் பார்க்கவும்",
+    "abouthero": "வழக்கறிஞர் பற்றி",
+    "aboutsubtitle": "தொழில்முறை பின்னணி, அலுவலக விவரங்கள் மற்றும் சட்ட சிறப்பிற்கான அர்ப்பணிப்பு.",
+    "office_info_title": "அலுவலக தகவல்",
+    "office_address_title": "அலுவலக முகவரி",
+    "office_view_map": "கூகுள் மேப்பில் முகவரியை பார்க்க",
+    "office_timings_title": "அலுவலக நேரங்கள்",
+    "office_timings": {
+      "mon_fri": "திங்கள் - வெள்ளி: காலை 9:00 - மாலை 6:00",
+      "saturday": "சனி: காலை 9:00 - மதியம் 1:00",
+      "sunday": "ஞாயிறு: முன்பதிவின் மூலம்"
+    },
+    "office_proximity_title": "நீதிமன்ற அருகாமை",
+    "office_proximity": {
+      "high_court": "உயர் நீதிமன்றம்: 0.5 கி.மீ",
+      "city_civil": "நகர சிவில் நீதிமன்றம்: 0.8 கி.மீ",
+      "family_court": "குடும்ப நீதிமன்றம்: 1.0 கி.மீ",
+      "egmore": "எக்மோர் நீதிமன்றம்: 3.5 கி.மீ"
+    },
+    "academic_title": "கல்வி விவரங்கள்",
+    "academic_table": {
+      "course": "பாடநெறி",
+      "institution": "கல்வி நிறுவனம்",
+      "university": "பல்கலைக்கழகம்",
+      "year": "பயிற்சி முடித்த ஆண்டு",
+      "percentage": "மதிப்பெண் சதவீதம்"
+    },
+    "contact-us": "தொடர்பு கொள்ள",
+    "contactsub": "தொழில்முறை சட்ட ஆலோசனை மற்றும் நிபுணர் ஆலோசனைக்கு தொடர்பு கொள்ளவும்.",
+    "contact_details_title": "தொடர்பு விவரங்கள்",
+    "contact_phone_title": "தொலைபேசி",
+    "contact_email_title": "மின்னஞ்சல்",
+    "contact_whatsapp_title": "வாட்ஸ்அப்",
+    "contact_whatsapp_status": "24x7 கிடைக்கிறது",
+    "consultation_title": "ஆலோசனை தகவல்",
+    "consultation_appointment": "முன்பதிவு அவசியம்",
+    "consultation_yes": "ஆம்",
+    "consultation_fee": "ஆலோசனை கட்டணம்",
+    "consultation_amount": "₹1,000",
+    "consultation_note": "* வழக்கு பதிவு செய்யும் போது ஆலோசனை கட்டணம் சரிசெய்யப்படும்.",
+    "appointment_title": "நியமனம் முன்பதிவு",
+    "appointment_subtitle": "இலவச ஆலோசனைக்கு விண்ணப்பிக்க கீழே உள்ள படிவத்தை பூர்த்தி செய்யவும். 24 மணி நேரத்திற்குள் உங்களை தொடர்புகொள்வோம்.",
+    "form_full_name": "முழு பெயர்",
+    "form_full_name_placeholder": "உங்கள் முழு பெயரை உள்ளிடவும்",
+    "form_mobile": "தொலைபேசி எண்",
+    "form_mobile_placeholder": "உங்கள் தொலைபேசி எண்ணை உள்ளிடவும்",
+    "form_case_type": "வழக்கு வகை",
+    "form_case_select": "வழக்கு வகையை தேர்வு செய்யவும்",
+    "form_case_criminal": "குற்றவியல் சட்டம்",
+    "form_case_civil": "சிவில் சட்டம்",
+    "form_case_family": "குடும்ப சட்டம்",
+    "form_case_property": "சொத்து சட்டம்",
+    "form_case_corporate": "நிறுவன சட்டம்",
+    "form_case_other": "மற்றவை",
+    "form_preferred_time": "விருப்பமான நேரம்",
+    "form_preferred_time_placeholder": "உதா., காலை, பிற்பகல்",
+    "form_case_description": "வழக்கு விளக்கம்",
+    "form_case_description_placeholder": "உங்கள் சட்ட பிரச்சினையின் சுருக்கமான விளக்கம்...",
+    "form_submit": "ஆலோசனை கோரிக்கையை சமர்ப்பிக்கவும்",
+    "form_disclaimer": "*இந்த படிவத்தை சமர்ப்பிப்பது வழக்கறிஞர்-வாடிக்கையாளர் உறவை உருவாக்காது.",
+    "form_success_message": "ஆலோசனை கோரிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது! 24 மணி நேரத்திற்குள் உங்களை தொடர்புகொள்வோம்.",
+    "footer_brand_name": "வழக்கறிஞர் பழனி முத்து",
+    "footer_brand_sub": "சட்ட சேவைகள்",
+    "footer_desc": "நேர்மையும் அர்ப்பணிப்பும் கொண்ட சட்ட சேவைகளை வழங்குகிறோம். சிவில், குற்றவியல் மற்றும் நிறுவன சட்டங்களில் நிபுணத்துவம் பெற்றவர்.",
+    "footer_quick_links": "விரைவு இணைப்புகள்",
+    "footer_home": "முகப்பு",
+    "footer_about": "எங்களை பற்றி",
+    "footer_contact": "தொடர்பு",
+    "footer_services": "சேவைகள்",
+    "footer_contact_title": "அலுவலக தொடர்பு",
+    "footer_address": "எஸ்.எஸ். காம்ப்ளெக்ஸ், இந்தியன் வங்கி எதிரில், கோ-ஆப்டெக்ஸ் லேன், ஜெயங்கொண்டம், உடையார்பாளையம், அரியலூர் மாவட்டம் - 621 802.",
+    "footer_phone": "+91 94430 94377",
+    "footer_email": "rpalani71@gmail.com",
+    "footer_legal_info": "சட்ட தகவல்",
+    "footer_bar_reg": "பார் கவுன்சில் பதிவு: 989/1997",
+    "footer_experience": "அனுபவம்: 25+ ஆண்டுகள்"
+  }
+}

@@ -1,32 +1,61 @@
 import React from 'react'
 import trust from '../../assets/trusted.png';
 import profile from '../../assets/profile.jpg';
-
+import { useLanguage } from "../../LanguageContext.js";
+import { NavLink } from 'react-router-dom';
 
 function Herosection() {
+    const { t } = useLanguage();
     return (
         <section className="hero" id="home">
             <div className="container">
                 <div className="hero-content">
                     <div className="hero-text">
-                        <p className="hero-subtitle"><img className='hero-trusted' src={trust} alt='Trusted' />Trusted Legal Council Since 1997</p>
+                        <p className="hero-subtitle"><img className='hero-trusted' src={trust} alt='Trusted' />{t("trusted")}</p>
                         <h1 className="hero-title">
-                            Advocate <div className="highlight">   R. Palani Muthu <span className="hero-degree">
+                            {t("advocate")} <div className="highlight">   {t("advocate_name")} <span className="hero-degree">
                                 M.A.,M.L
                             </span>  </div>
                         </h1>
 
                         <p className="hero-council">
-                            Bar Council Reg: 989/1997 | 25+ Years Experience
+                            {t("reg")} 989/1997 | 25+ {t("exp")}
                         </p>
                         <p className="hero-description">
-                            Dedicated to providing strategic legal solutions with <br />integrity. Specializing in High Court and District Court<br />litigations with a proven track record of success.
+                            {/* Dedicated to providing strategic legal solutions with <br />integrity. Specializing in High Court and District Court<br />litigations with a proven track record of success. */}
+                            {t("desc")}
                         </p>
                         <div className="hero-buttons">
-                            <button className="btn-primary">Book Consultation</button>
+                            <NavLink
+                                to="/contact"
+                                onClick={() =>
+                                    window.scrollTo({
+                                        top: 0,
+                                        behavior: "smooth"
+                                    })
+                                }
+                            >
+                                <button className="btn-primarys">{t("bookconsult")}</button>
+                            </NavLink>
                             <div className='mobile-btn'>
-                                <button className="btn-secondary">Contact Advocate</button>
-                                <button className="btn-secondary" >View Practice Areas</button>
+                                <NavLink
+                                    to="/contact"
+                                    onClick={() =>
+                                        window.scrollTo({
+                                            top: 0,
+                                            behavior: "smooth"
+                                        })
+                                    }
+                                ><button className="btn-secondary">{t("advocatecontact")}</button></NavLink>
+                                <a
+                                    href="#services"
+                                    onClick={() =>
+                                        window.scrollTo({
+                                            top: 0,
+                                            behavior: "smooth"
+                                        })
+                                    }
+                                ><button className="btn-secondary" >{t("practice_area")}</button></a>
                             </div>
                         </div>
                     </div>
@@ -34,7 +63,7 @@ function Herosection() {
                         <div className="image-container">
                             <img src={profile} alt="Advocate R. Sharma" />
                             <div className="video-badge">
-                                <span>"Justice For All"</span>
+                                <span>"{t("all")}"</span>
                             </div>
                         </div>
                     </div>

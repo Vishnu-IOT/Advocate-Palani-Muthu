@@ -1,7 +1,9 @@
 import React from 'react'
 import { FaArrowRightLong } from 'react-icons/fa6';
+import { useLanguage } from "../../LanguageContext.js";
 
 function Testimonialsection() {
+    const { t } = useLanguage();
     const testimonials = [
         {
             name: "Rajesh Kumar",
@@ -31,9 +33,9 @@ function Testimonialsection() {
     return (
         <section className="testimonials-section">
             <div className="container">
-                <h2 className="section-title">Client Testimonials</h2>
+                <h2 className="section-title">{t("client")}</h2>
                 <div className='section-border'><p></p></div>
-                <p className='section-subtitles'>What our clients say about our legal services.</p>
+                <p className='section-subtitles'>{t("reviews")}</p>
                 <div className="testimonials-grid">
                     {testimonials.map((testimonial, index) => (
                         <div className="testimonial-card" key={index}>

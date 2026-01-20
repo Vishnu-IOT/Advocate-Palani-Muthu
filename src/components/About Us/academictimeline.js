@@ -1,6 +1,8 @@
 import React from 'react'
+import { useLanguage } from "../../LanguageContext.js";
 
 function Academictimeline() {
+    const { t } = useLanguage();
     const academicData = [
         {
             course: "M.L",
@@ -48,16 +50,16 @@ function Academictimeline() {
     return (
         <section className="academic-timeline-section">
             <div className="academic-timeline-container">
-                <h2 className="academic-timeline-title">Academic Course</h2>
+                <h2 className="academic-timeline-title">{t("academic_title")}</h2>
                 <div className="academic-table-wrapper">
                     <table className="academic-table">
                         <thead>
                             <tr>
-                                <th>Course</th>
-                                <th>Institution</th>
-                                <th>University</th>
-                                <th>Year of Completion</th>
-                                <th>Percentage of Marks</th>
+                                <th>{t("academic_table.course")}</th>
+                                <th>{t("academic_table.institution")}</th>
+                                <th>{t("academic_table.university")}</th>
+                                <th>{t("academic_table.year")}</th>
+                                <th>{t("academic_table.percentage")}</th>
                             </tr>
                         </thead>
                         <tbody>

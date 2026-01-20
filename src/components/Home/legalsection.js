@@ -1,6 +1,8 @@
 import React from 'react'
+import { useLanguage } from "../../LanguageContext.js";
 
 function Legalsection() {
+    const { t } = useLanguage();
     const insights = [
         {
             image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&h=250&fit=crop",
@@ -25,8 +27,8 @@ function Legalsection() {
         <section className="insights-section">
             <div className="container">
                 <div className="insights-header">
-                    <h2 className="section-title">Legal Insights</h2>
-                    <button className="btn-view-all">View All Articles</button>
+                    <h2 className="section-title">{t("legal")}</h2>
+                    <button className="btn-view-all">{t("articles")}</button>
                 </div>
                 {/* <div className='section-border'><p></p></div> */}
                 <div className="insights-grid">

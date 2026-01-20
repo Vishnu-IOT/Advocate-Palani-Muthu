@@ -1,63 +1,77 @@
-import React from 'react'
-import address from '../../assets/address-about.png';
-import timings from '../../assets/timings.png';
-
+import React from "react";
+import addressIcon from "../../assets/address-about.png";
+import timingsIcon from "../../assets/timings.png";
+import { useLanguage } from "../../LanguageContext.js";
 
 function Officeinfo() {
+    const { t } = useLanguage();
+
     const officeData = [
         {
-            icon: address,
-            title: "Office Address",
-            details: [
-                "S.S.Complex, OPP. Indian Bank,",
-                " Co-Optex Lane, Jayankondam,",
-                "Udaiyarpalayam, Ariyalur Dt - 621 802."
-            ],
-            link: "View address on Google maps"
+            icon: addressIcon,
+            title: t("office_address_title"),
+            details: [t("footer_address")],
+            link: t("office_view_map")
         },
         {
-            icon: timings,
-            title: "Office Timings",
+            icon: timingsIcon,
+            title: t("office_timings_title"),
             details: [
-                "Mon - Fri: 9:00 AM - 6:00 PM",
-                "Saturday: 9:00 AM - 1:00 PM",
-                "Sunday: By Appointment Only"
+                t("office_timings.mon_fri"),
+                t("office_timings.saturday"),
+                t("office_timings.sunday")
             ]
         },
         {
-            icon: address,
-            title: "Court Proximity",
+            icon: addressIcon,
+            title: t("office_proximity_title"),
             details: [
-                "Supreme CourtHigh Court: 0.5 km",
-                "City Civil Court: 0.8 km",
-                "Family Court: 1.0 km",
-                "Egmore Court: 3.5 km"
+                t("office_proximity.high_court"),
+                t("office_proximity.city_civil"),
+                t("office_proximity.family_court"),
+                t("office_proximity.egmore")
             ]
         }
     ];
+
     return (
         <section className="office-info-section">
             <div className="about-container">
-                <h2 className="about-section-title">Office Information</h2>
+
+                <h2 className="about-section-title">
+                    {t("office_info_title")}
+                </h2>
+
                 <div className="office-grid">
                     {officeData.map((office, index) => (
                         <div className="office-card" key={index}>
-                            <div className="office-icon"><img src={office.icon} alt={office.title} /></div>
-                            <h3 className="office-title">{office.title}</h3>
+
+                            <div className="office-icon">
+                                <img src={office.icon} alt={office.title} />
+                            </div>
+
+                            <h3 className="office-title">
+                                {office.title}
+                            </h3>
+
                             <div className="office-details">
                                 {office.details.map((detail, idx) => (
                                     <p key={idx}>{detail}</p>
                                 ))}
                             </div>
+
                             {office.link && (
-                                <a href="#" className="office-link">{office.link}</a>
+                                <a href="#" className="office-link">
+                                    {office.link}
+                                </a>
                             )}
                         </div>
                     ))}
                 </div>
+
             </div>
         </section>
-    )
+    );
 }
 
-export default Officeinfo
+export default Officeinfo;

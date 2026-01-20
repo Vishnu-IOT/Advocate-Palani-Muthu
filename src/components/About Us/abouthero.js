@@ -1,12 +1,14 @@
 import React from 'react'
+import { useLanguage } from "../../LanguageContext.js";
 
 function Abouthero() {
+    const { t } = useLanguage();
     return (
         <section className="about-hero">
             <div className="about-container">
-                <h1 className="about-hero-title">About The Advocate</h1>
+                <h1 className="about-hero-title">{t("abouthero")}</h1>
                 <p className="about-hero-subtitle">
-                    Professional background, office details, and commitment to legal excellence.
+                    {t("aboutsubtitle")}
                 </p>
             </div>
         </section>
