@@ -19,7 +19,7 @@ function Navbar() {
         <nav className="navbar">
             <div className="container">
                 {/* Brand */}
-                <NavLink to="/">
+                <NavLink to="/" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
                     <div className="nav-brand">
                         <img className="logo-icon" src={logo} alt="Logo" />
                         <div className="main-brand-name">
@@ -114,3 +114,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
