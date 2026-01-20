@@ -19,15 +19,17 @@ function Navbar() {
         <nav className="navbar">
             <div className="container">
                 {/* Brand */}
-                <div className="nav-brand">
-                    <img className="logo-icon" src={logo} alt="Logo" />
-                    <div className="main-brand-name">
-                        <span className="brand-name">{t("advocate")} {t("advocate_name")}</span>
-                        <span className="sub-brand-name">
-                            {t("court")}
-                        </span>
+                <NavLink to="/">
+                    <div className="nav-brand">
+                        <img className="logo-icon" src={logo} alt="Logo" />
+                        <div className="main-brand-name">
+                            <span className="brand-name">{t("advocate")} {t("advocate_name")}</span>
+                            <span className="sub-brand-name">
+                                {t("court")}
+                            </span>
+                        </div>
                     </div>
-                </div>
+                </NavLink>
 
                 {/* Desktop Menu */}
                 <ul className="nav-menu">

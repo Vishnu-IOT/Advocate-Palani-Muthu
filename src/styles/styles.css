@@ -223,6 +223,7 @@ button {
     display: none;
     flex-direction: column;
     gap: 6px;
+    top: 0;
     cursor: pointer;
 }
 
@@ -232,7 +233,7 @@ button {
     background-color: whitesmoke;
     width: 100%;
     position: absolute;
-    top: 10vh;
+    top: 8vh;
     left: 50%;
     transform: translateX(-50%) translateY(-20px);
 
@@ -264,7 +265,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 25px;
-    height: 90vh;
+    height: 100vh;
 }
 
 .mobile-nav li a {
@@ -1735,7 +1736,7 @@ a {
         margin-bottom: 10px;
     }
 
-    .highlight{
+    .highlight {
         font-size: 24px;
     }
 
@@ -2137,7 +2138,7 @@ a {
 
     .footer-col ul li a,
     .contact-info li {
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .footer-contact {
@@ -2182,7 +2183,7 @@ a {
 
     .stats-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
         /* grid-template-columns: 1fr; */
     }
 
