@@ -106,7 +106,10 @@ function Navbar() {
                                 </NavLink>
                             </li>
                             <li>
-                                <button onClick={toggleLanguage}>
+                                <button onClick={() => {
+                                    toggleLanguage();
+                                    handleMenuClick();
+                                }}>
                                     {lang === "en" ? "தமிழ்" : "English"}
                                 </button>
                             </li>
@@ -124,3 +127,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
