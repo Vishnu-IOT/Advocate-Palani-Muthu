@@ -220,32 +220,34 @@ body {
 /* Service Standards Section */
 .service-standards-section {
     padding: 60px 0;
-    background: var(--white);
+    background: var(--light-gray);
 }
 
 .standards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 32px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
 }
 
 .standard-card {
     display: flex;
-    gap: 20px;
-    padding: 24px;
+    justify-content: center;
+    align-items: center;
     background: var(--light-gray);
     border-radius: 12px;
     transition: all 0.3s ease;
 }
 
-.standard-card:hover {
+/* .standard-card:hover {
     background: var(--white);
     box-shadow: var(--shadow-md);
-}
+} */
 
 .standard-icon img {
-    height: 40px;
-    flex-shrink: 0;
+    height: 300px;
+    width: 100%;
+    /* flex-shrink: 0; */
+    border-radius: 10px;
 }
 
 .standard-content h3 {
@@ -401,7 +403,7 @@ body {
     }
 
     .standards-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     }
 
     .admin-item {
@@ -434,7 +436,10 @@ body {
     .standard-card {
         display: flex;
         gap: 20px;
-        padding: 15px;
+    }
+
+    .standard-card img {
+        height: 200px;
     }
 
     .office-icon img {

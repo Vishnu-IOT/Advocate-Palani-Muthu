@@ -48,6 +48,11 @@ function Navbar() {
                             {t("contact")}
                         </NavLink>
                     </li>
+                    <li>
+                        <NavLink to="/services" className={({ isActive }) => isActive ? "active-link" : ""}>
+                            {t("services")}
+                        </NavLink>
+                    </li>
                     <li className="nav-list">
                         <NavLink to="/contact">
                             <button className="btn-primary">
@@ -87,6 +92,11 @@ function Navbar() {
                                     {t("contact")}
                                 </NavLink>
                             </li>
+                            <li>
+                                <NavLink to="/services" className={({ isActive }) => isActive ? "active-link" : ""} onClick={handleMenuClick}>
+                                    {t("services")}
+                                </NavLink>
+                            </li>
                             <li className="nav-list">
                                 <NavLink to="/contact" onClick={handleMenuClick}>
                                     <button className="btn-primary">
@@ -114,4 +124,3 @@ function Navbar() {
 }
 
 export default Navbar;
-

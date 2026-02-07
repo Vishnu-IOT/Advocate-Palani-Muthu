@@ -12,9 +12,9 @@ function Aboutus() {
   return (
     <div>
       <Abouthero />
+      <Servicestd />
       <Academictimeline />
       <Officeinfo />
-      <Servicestd />
       <Legalcomplaince />
       <Technicalstd />
       <Adminstration />

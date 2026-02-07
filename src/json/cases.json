@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "caseNumber": "CIV-2024-001",
+        "court": "Combined Courts, Jauankondam",
+        "status": "Pending",
+        "client": "Ramesh Kumar"
+    },
+    {
+        "id": 2,
+        "caseNumber": "CRI-2023-021",
+        "court": "Criminal Court",
+        "status": "In Progress",
+        "client": "Suresh"
+    },
+    {
+        "id": 3,
+        "caseNumber": "FAM-2022-110",
+        "court": "Family Court",
+        "status": "Completed",
+        "client": "Anita"
+    },
+    {
+        "id": 4,
+        "caseNumber": "CIV-2023-055",
+        "court": "Civil Court",
+        "status": "Completed",
+        "client": "Vijay"
+    },
+    {
+        "id": 5,
+        "caseNumber": "CRI-2024-079",
+        "court": "Criminal Court",
+        "status": "Pending",
+        "client": "Ajith"
+    },
+    {
+        "id": 6,
+        "caseNumber": "FAM-2025-106",
+        "court": "Family Court",
+        "status": "In Progress",
+        "client": "Dhanush"
+    }
+]

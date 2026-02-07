@@ -68,9 +68,9 @@ function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <a href="#services">
+                                <Link to="/services" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
                                     → {t("footer_services")}
-                                </a>
+                                </Link>
                             </li>
                         </ul>
                     </div>

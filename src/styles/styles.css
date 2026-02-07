@@ -233,7 +233,7 @@ button {
     background-color: whitesmoke;
     width: 100%;
     position: absolute;
-    top: 8vh;
+    top: 9vh;
     left: 50%;
     transform: translateX(-50%) translateY(-20px);
 

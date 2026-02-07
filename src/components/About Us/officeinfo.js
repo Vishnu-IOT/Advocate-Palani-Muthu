@@ -61,7 +61,7 @@ function Officeinfo() {
                             </div>
 
                             {office.link && (
-                                <a href="/" className="office-link">
+                                <a href="#" className="office-link">
                                     {office.link}
                                 </a>
                             )}
@@ -75,4 +75,3 @@ function Officeinfo() {
 }
 
 export default Officeinfo;
-

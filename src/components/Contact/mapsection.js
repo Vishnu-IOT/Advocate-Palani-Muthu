@@ -1,5 +1,5 @@
 import React from 'react'
-// import address from '../../assets/address.png'
+import address from '../../assets/address.png'
 
 function Mapsection() {
     return (
@@ -32,4 +32,3 @@ function Mapsection() {
 }
 
 export default Mapsection
-

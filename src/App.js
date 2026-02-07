@@ -7,6 +7,7 @@ import Footer from './pages/footer';
 import Navbar from './pages/navbar';
 import './styles/styles.css';
 import Contact from './contact';
+import Services from './services';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<Aboutus />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/services" element={<Services />} />
       </Routes>
       <Footer />
     </div>

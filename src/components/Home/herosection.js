@@ -1,6 +1,6 @@
 import React from 'react'
 import trust from '../../assets/trusted.png';
-import profile from '../../assets/profile.jpg';
+import profile from '../../assets/ad2.jpeg';
 import { useLanguage } from "../../LanguageContext.js";
 import { NavLink } from 'react-router-dom';
 
@@ -61,7 +61,7 @@ function Herosection() {
                     </div>
                     <div className="hero-image">
                         <div className="image-container">
-                            <img src={profile} alt="Advocate R. Sharma" />
+                            <img src={profile} alt="Advocate R. Palani Muthu" />
                             <div className="video-badge">
                                 <span>"{t("all")}"</span>
                             </div>
