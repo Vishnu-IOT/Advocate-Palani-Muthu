@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "totalEstablishments": 5,
+    "totalCases": 8,
+    "courts": {
+      "Principal District Court, Ariyalur": 6,
+      "Chief Judicial Magistrate Court, Ariyalur": 1,
+      "Family Court, Ariyalur": 1
+    }
+  },
+  "casesByCourt": {
+    "Principal District Court, Ariyalur": [
+      {
+        "srNo": 1,
+        "caseNumber": "SPL.SC/20/2024",
+        "petitioner": "The State Reb by the Inspector of police, Meensurity PS.",
+        "respondent": "Annathurai",
+        "advocates": "CHINNATHAMBI C(P.P), PALANIMUTHU R"
+      },
+      {
+        "srNo": 2,
+        "caseNumber": "SPL.SC/20/2024",
+        "petitioner": "The State Reb by the Inspector of police, Meensurity PS.",
+        "respondent": "Annathurai",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 3,
+        "caseNumber": "SPL.SC/20/2024",
+        "petitioner": "The State Reb by the Inspector of police, Meensurity PS.",
+        "respondent": "Annathurai",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 4,
+        "caseNumber": "SPL.SC/20/2024",
+        "petitioner": "The State Reb by the Inspector of police, Meensurity PS.",
+        "respondent": "Annathurai",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 5,
+        "caseNumber": "CRLA/36/2023",
+        "petitioner": "Manikandan",
+        "respondent": "The State of Tamilnadu Rep by the Inspector of police, Jayankondam.",
+        "advocates": "Palanimuthu R RAJARATHINAM"
+      },
+      {
+        "srNo": 6,
+        "caseNumber": "SPL.SC/34/2023",
+        "petitioner": "The State of Tamil Nadu Rep by Inspector of Police, All Women Police Station,\n                    Jayankondam",
+        "respondent": "Selvakumar, Age(21/2023)",
+        "advocates": "Special Public Prosecutor RAJA M, PALANIMUTHU R"
+      }
+    ],
+    "Chief Judicial Magistrate Court, Ariyalur": [
+      {
+        "srNo": 7,
+        "caseNumber": "STC/1424/2021",
+        "petitioner": "Jagadesan",
+        "respondent": "Manival",
+        "advocates": "CHAKKARAVARTHY N, PALANIMUTHU M"
+      }
+    ],
+    "Family Court, Ariyalur": [
+      {
+        "srNo": 8,
+        "caseNumber": "OP/10/2025",
+        "petitioner": "XXXXXXX",
+        "respondent": "XXXXXXX",
+        "advocates": "PALANIMUTHU R"
+      }
+    ]
+  }
+}

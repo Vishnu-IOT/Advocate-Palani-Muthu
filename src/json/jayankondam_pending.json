@@ -1,0 +1,1061 @@
+{
+  "summary": {
+    "totalEstablishments": 5,
+    "totalCases": 148,
+    "courts": {
+      "Special Courts, Jayankondam": 37,
+      "Judicial Magistrate No. I Court, Jayankondam": 14,
+      "District Munsif Court, Jayankondam": 59,
+      "Judicial Magistrate No. II Court, Jayankondam": 3,
+      "Sub Court, Jayankondam": 35
+    }
+  },
+  "casesByCourt": {
+    "Special Courts, Jayankondam": [
+      {
+        "srNo": 1,
+        "caseNumber": "OS/318/2024",
+        "petitioner": "Athiyaman",
+        "respondent": "Pazhani",
+        "advocates": "GANDHIMATHI N, PALANIMUTHU R"
+      },
+      {
+        "srNo": 2,
+        "caseNumber": "MCOP/107/2024",
+        "petitioner": "Rajendran",
+        "respondent": "Babu",
+        "advocates": "JAYARAJ G, R.PALANIMUTHU"
+      },
+      {
+        "srNo": 3,
+        "caseNumber": "OS/294/2024",
+        "petitioner": "Kamaraj",
+        "respondent": "Kamalam",
+        "advocates": "MANOKARAN P, PALANIMUTHU R"
+      },
+      {
+        "srNo": 4,
+        "caseNumber": "MCOP/112/2021",
+        "petitioner": "Karunanithi",
+        "respondent": "Vijay",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 5,
+        "caseNumber": "OS/325/2024",
+        "petitioner": "Jothilakshmi",
+        "respondent": "Vijayalakshmi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 6,
+        "caseNumber": "OS/294/2024",
+        "petitioner": "Kamaraj",
+        "respondent": "Kamalam",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 7,
+        "caseNumber": "OS/294/2024",
+        "petitioner": "Kamaraj",
+        "respondent": "Kamalam",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 8,
+        "caseNumber": "OS/171/2024",
+        "petitioner": "Vanaja",
+        "respondent": "Saroja",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 9,
+        "caseNumber": "OS/171/2024",
+        "petitioner": "Vanaja",
+        "respondent": "Saroja",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 10,
+        "caseNumber": "OS/155/2024",
+        "petitioner": "Krishnamoorthi",
+        "respondent": "Raman and Govt others",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 11,
+        "caseNumber": "OS/78/2024",
+        "petitioner": "Saroja",
+        "respondent": "Pavunammal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 12,
+        "caseNumber": "OS/78/2024",
+        "petitioner": "Saroja",
+        "respondent": "Pavunammal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 13,
+        "caseNumber": "OS/68/2024",
+        "petitioner": "Pazhaniyammal",
+        "respondent": "Meiyazhagan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 14,
+        "caseNumber": "OS/119/2024",
+        "petitioner": "Vasantha Ammal",
+        "respondent": "Karumbayeeram",
+        "advocates": "PALANIMUTHU R, GANESAN P"
+      },
+      {
+        "srNo": 15,
+        "caseNumber": "MCOP/116/2021",
+        "petitioner": "Vijaya",
+        "respondent": "Rathinam",
+        "advocates": "PALANIMUTHU R, MANI N"
+      },
+      {
+        "srNo": 16,
+        "caseNumber": "MCOP/133/2024",
+        "petitioner": "Ganesan",
+        "respondent": "Prabakaran",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 17,
+        "caseNumber": "MCOP/133/2024",
+        "petitioner": "Ganesan",
+        "respondent": "Prabakaran",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 18,
+        "caseNumber": "MCOP/133/2024",
+        "petitioner": "Ganesan",
+        "respondent": "Prabakaran",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 19,
+        "caseNumber": "MCOP/133/2024",
+        "petitioner": "Ganesan",
+        "respondent": "Prabakaran",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 20,
+        "caseNumber": "MCOP/12/2024",
+        "petitioner": "Ambika",
+        "respondent": "Ravi",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 21,
+        "caseNumber": "MCOP/12/2024",
+        "petitioner": "Ambika",
+        "respondent": "Ravi",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 22,
+        "caseNumber": "MCOP/12/2024",
+        "petitioner": "Ambika",
+        "respondent": "Ravi",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 23,
+        "caseNumber": "MCOP/116/2021",
+        "petitioner": "Vijaya",
+        "respondent": "Rathinam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 24,
+        "caseNumber": "MCOP/116/2021",
+        "petitioner": "Vijaya",
+        "respondent": "Rathinam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 25,
+        "caseNumber": "MCOP/116/2021",
+        "petitioner": "Vijaya",
+        "respondent": "Rathinam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 26,
+        "caseNumber": "MCOP/51/2021",
+        "petitioner": "Ladha",
+        "respondent": "Kolanchiyappan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 27,
+        "caseNumber": "MCOP/51/2021",
+        "petitioner": "Ladha",
+        "respondent": "Kolanchiyappan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 28,
+        "caseNumber": "MCOP/51/2021",
+        "petitioner": "Ladha",
+        "respondent": "Kolanchiyappan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 29,
+        "caseNumber": "MCOP/51/2021",
+        "petitioner": "Ladha",
+        "respondent": "Kolanchiyappan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 30,
+        "caseNumber": "MCOP/90/2019",
+        "petitioner": "Jaisankar",
+        "respondent": "Jayakumar",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 31,
+        "caseNumber": "MCOP/66/2019",
+        "petitioner": "Kamaraj.V",
+        "respondent": "Muruganantham.R",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 32,
+        "caseNumber": "OS/119/2024",
+        "petitioner": "Vasantha Ammal",
+        "respondent": "Karumbayeeram",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 33,
+        "caseNumber": "OS/119/2024",
+        "petitioner": "Vasantha Ammal",
+        "respondent": "Karumbayeeram",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 34,
+        "caseNumber": "MCOP/29/2021",
+        "petitioner": "Kumar",
+        "respondent": "Divisional Manager",
+        "advocates": "R.PALANIMUTHU, GANDHIDURAI S"
+      },
+      {
+        "srNo": 35,
+        "caseNumber": "MCOP/106/2021",
+        "petitioner": "Arun Kilindon",
+        "respondent": "Annadurai",
+        "advocates": "R.PALANIMUTHU, JAYARAMAN R"
+      },
+      {
+        "srNo": 36,
+        "caseNumber": "MCOP/4/2024",
+        "petitioner": "Balasekar",
+        "respondent": "Sithiraikkanni",
+        "advocates": "R.PALANIMUTHU, M. SETTURAJAN"
+      },
+      {
+        "srNo": 37,
+        "caseNumber": "OS/78/2024",
+        "petitioner": "Saroja",
+        "respondent": "Pavunammal",
+        "advocates": "SHANMUGANATHAN M, PALANIMUTHU R"
+      }
+    ],
+    "Judicial Magistrate No. I Court, Jayankondam": [
+      {
+        "srNo": 38,
+        "caseNumber": "CC/171/2024",
+        "petitioner": "The State Reb By Sub Inspector Of Police Jeyankondam Police",
+        "respondent": "Rajan",
+        "advocates": ", PALANIMUTHU R"
+      },
+      {
+        "srNo": 39,
+        "caseNumber": "CC/220/2024",
+        "petitioner": "The state Rep by Inspector of police, Jayankondam PS",
+        "respondent": "Dharmadurai (dharmaraj)",
+        "advocates": "A.P.P, PALANIMUTHU R"
+      },
+      {
+        "srNo": 40,
+        "caseNumber": "CC/215/2023",
+        "petitioner": "The State by Sub Inspector of Police, T.Palur P S",
+        "respondent": "Selvakumar S/o Mathiyalagan and other\n                    three",
+        "advocates": "A.P.P, PALANIMUTHU R"
+      },
+      {
+        "srNo": 41,
+        "caseNumber": "STC/824/2024",
+        "petitioner": "The State rep by Inspector of Police, T.Palur PS",
+        "respondent": "BALAMURUGAN",
+        "advocates": "APP, PALANIMUTHU R"
+      },
+      {
+        "srNo": 42,
+        "caseNumber": "CC/77/2023",
+        "petitioner": "The State by Sub Inspector of Police, Jayankondam P.S",
+        "respondent": "Pandian S/o Kaliyaperumal and other\n                    two",
+        "advocates": "Assistant Public Prosecutor, PALANIMUTHU R"
+      },
+      {
+        "srNo": 43,
+        "caseNumber": "CC/27/2021",
+        "petitioner": "State by Inspector of Police, T.Palur Police Station",
+        "respondent": "Anbarasan",
+        "advocates": "Assistant Public Prosecutor, PALANIMUTHU R"
+      },
+      {
+        "srNo": 44,
+        "caseNumber": "CC/113/2020",
+        "petitioner": "State by Inspector of Police, Jayankondam Police Station",
+        "respondent": "Chakkaravarthi",
+        "advocates": "Assistant Public Prosecutor, PALANIMUTHU R"
+      },
+      {
+        "srNo": 45,
+        "caseNumber": "STC/599/2020",
+        "petitioner": "Kaliyaperumal",
+        "respondent": "Kumar",
+        "advocates": "Devendran v, PALANIMUTHU R"
+      },
+      {
+        "srNo": 46,
+        "caseNumber": "CC/186/2025",
+        "petitioner": "The Tamilnadu State Rep By Sub Inspector Of Police Jayankondam Police Station",
+        "respondent": "Mukilan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 47,
+        "caseNumber": "CC/77/2023",
+        "petitioner": "The State by Sub Inspector of Police, Jayankondam P.S",
+        "respondent": "Pandian S/o Kaliyaperumal and other\n                    two",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 48,
+        "caseNumber": "CC/77/2023",
+        "petitioner": "The State by Sub Inspector of Police, Jayankondam P.S",
+        "respondent": "Pandian S/o Kaliyaperumal and other\n                    two",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 49,
+        "caseNumber": "STC/101283/2015",
+        "petitioner": "Pazhamalai",
+        "respondent": "A1 Ananthan",
+        "advocates": "PALANIMUTHU R, UTHIRPATHI R"
+      },
+      {
+        "srNo": 50,
+        "caseNumber": "STC/61/2025",
+        "petitioner": "kumar",
+        "respondent": "Arivarasu Natesan",
+        "advocates": "Palanimuthu R RAJARATHINAM"
+      },
+      {
+        "srNo": 51,
+        "caseNumber": "CC/151/2025",
+        "petitioner": "State by Inspector of Police, T.Palur PS",
+        "respondent": "PRAVEEN",
+        "advocates": "THE STATE REP BY INSPECTOR TPALUR ALR T.PALUR, PALANIMUTHU R"
+      }
+    ],
+    "District Munsif Court, Jayankondam": [
+      {
+        "srNo": 52,
+        "caseNumber": "OS/100040/2014",
+        "petitioner": "Ramakrishnan (Family Manager)",
+        "respondent": "Pichaipillai (D1)",
+        "advocates": ", PALANIMUTHU R"
+      },
+      {
+        "srNo": 53,
+        "caseNumber": "OS/9/2024",
+        "petitioner": "Rengasamy",
+        "respondent": "Gunasekaran",
+        "advocates": "FRANCIS XAVIER M, PALANIMUTHU R"
+      },
+      {
+        "srNo": 54,
+        "caseNumber": "OS/157/2020",
+        "petitioner": "Dhanam",
+        "respondent": "Kolanjiyappan",
+        "advocates": "JAISANKAR T, PALANIMUTHU R"
+      },
+      {
+        "srNo": 55,
+        "caseNumber": "OS/143/2018",
+        "petitioner": "Adaikalasamy",
+        "respondent": "Sebasthiyan",
+        "advocates": "MANI N, PALANIMUTHU R"
+      },
+      {
+        "srNo": 56,
+        "caseNumber": "EP/29/2025",
+        "petitioner": "Anajalaiyammal Died",
+        "respondent": "Nagalingam Died",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 57,
+        "caseNumber": "OS/120/2025",
+        "petitioner": "Pazhamalai",
+        "respondent": "Amutha",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 58,
+        "caseNumber": "OS/120/2025",
+        "petitioner": "Pazhamalai",
+        "respondent": "Amutha",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 59,
+        "caseNumber": "OS/120/2025",
+        "petitioner": "Pazhamalai",
+        "respondent": "Amutha",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 60,
+        "caseNumber": "OS/99/2025",
+        "petitioner": "Varatharajan",
+        "respondent": "Sekar",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 61,
+        "caseNumber": "OS/99/2025",
+        "petitioner": "Varatharajan",
+        "respondent": "Sekar",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 62,
+        "caseNumber": "OS/68/2025",
+        "petitioner": "Ramalingam",
+        "respondent": "Kaveriyammal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 63,
+        "caseNumber": "OS/68/2025",
+        "petitioner": "Ramalingam",
+        "respondent": "Kaveriyammal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 64,
+        "caseNumber": "OS/41/2025",
+        "petitioner": "Antonyammal",
+        "respondent": "Praveen Pavulraj",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 65,
+        "caseNumber": "OS/140/2024",
+        "petitioner": "Pazhani",
+        "respondent": "Anbarasan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 66,
+        "caseNumber": "OS/9/2024",
+        "petitioner": "Rengasamy",
+        "respondent": "Gunasekaran",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 67,
+        "caseNumber": "OS/116/2022",
+        "petitioner": "Selvi",
+        "respondent": "Maharajan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 68,
+        "caseNumber": "OS/215/2020",
+        "petitioner": "Suresh",
+        "respondent": "Prakash",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 69,
+        "caseNumber": "OS/215/2020",
+        "petitioner": "Suresh",
+        "respondent": "Prakash",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 70,
+        "caseNumber": "OS/213/2020",
+        "petitioner": "Ramamoorthy",
+        "respondent": "Maveeran",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 71,
+        "caseNumber": "OS/241/2019",
+        "petitioner": "Rajendiran",
+        "respondent": "Samydurai",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 72,
+        "caseNumber": "OS/104/2019",
+        "petitioner": "Appadurai",
+        "respondent": "Renganathan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 73,
+        "caseNumber": "OS/100/2019",
+        "petitioner": "Pattusamy",
+        "respondent": "Soundarapandian",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 74,
+        "caseNumber": "OS/36/2019",
+        "petitioner": "Rajeshwari",
+        "respondent": "Dhanalakshmi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 75,
+        "caseNumber": "OS/36/2019",
+        "petitioner": "Rajeshwari",
+        "respondent": "Dhanalakshmi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 76,
+        "caseNumber": "OS/100272/2016",
+        "petitioner": "Kaliamurthy",
+        "respondent": "Saroja",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 77,
+        "caseNumber": "OS/100272/2016",
+        "petitioner": "Kaliamurthy",
+        "respondent": "Saroja",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 78,
+        "caseNumber": "OS/9/2016",
+        "petitioner": "Deivasigamani",
+        "respondent": "Amsayal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 79,
+        "caseNumber": "OS/100021/2011",
+        "petitioner": "Selvaraj",
+        "respondent": "Kolanchi (Died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 80,
+        "caseNumber": "OS/100021/2011",
+        "petitioner": "Selvaraj",
+        "respondent": "Kolanchi (Died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 81,
+        "caseNumber": "OS/100084/2010",
+        "petitioner": "Rayar (P1)",
+        "respondent": "Anbazhagan (died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 82,
+        "caseNumber": "OS/100084/2010",
+        "petitioner": "Rayar (P1)",
+        "respondent": "Anbazhagan (died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 83,
+        "caseNumber": "OS/100084/2010",
+        "petitioner": "Rayar (P1)",
+        "respondent": "Anbazhagan (died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 84,
+        "caseNumber": "OS/100084/2010",
+        "petitioner": "Rayar (P1)",
+        "respondent": "Anbazhagan (died)",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 85,
+        "caseNumber": "OS/213/2020",
+        "petitioner": "Ramamoorthy",
+        "respondent": "Maveeran",
+        "advocates": "PALANIMUTHU R, ANANDAN T"
+      },
+      {
+        "srNo": 86,
+        "caseNumber": "OS/213/2021",
+        "petitioner": "Gnanaprakasam",
+        "respondent": "Arulappan",
+        "advocates": "PALANIMUTHU R, FRANCIS XAVIER"
+      },
+      {
+        "srNo": 87,
+        "caseNumber": "OS/134/2024",
+        "petitioner": "Jayalakshmi",
+        "respondent": "Andal",
+        "advocates": "PALANIMUTHU R, G. RAJENDRAN"
+      },
+      {
+        "srNo": 88,
+        "caseNumber": "OS/138/2020",
+        "petitioner": "Cinnathambi",
+        "respondent": "Karuppaiyan",
+        "advocates": "PALANIMUTHU R, JAISANKAR T"
+      },
+      {
+        "srNo": 89,
+        "caseNumber": "OS/127/2023",
+        "petitioner": "Savarimuthu",
+        "respondent": "Anthonisamy",
+        "advocates": "PALANIMUTHU R, K. MOHANRAJ"
+      },
+      {
+        "srNo": 90,
+        "caseNumber": "OS/100086/2017",
+        "petitioner": "Jeyaraman",
+        "respondent": "Ramalingam",
+        "advocates": "PALANIMUTHU R, M. SETTURAJAN"
+      },
+      {
+        "srNo": 91,
+        "caseNumber": "OS/172/2023",
+        "petitioner": "Sagayaraj",
+        "respondent": "Loorthusamy",
+        "advocates": "PALANIMUTHU R, N.K.SHANMUGAM"
+      },
+      {
+        "srNo": 92,
+        "caseNumber": "OS/5/2024",
+        "petitioner": "Elias",
+        "respondent": "Indhiragandhi",
+        "advocates": "PALANIMUTHU R, R. NATARAJAN"
+      },
+      {
+        "srNo": 93,
+        "caseNumber": "OS/38/2022",
+        "petitioner": "Vijaiyalakshmi",
+        "respondent": "Govindarasu",
+        "advocates": "PALANIMUTHU R, R. SURESHKUMAR"
+      },
+      {
+        "srNo": 94,
+        "caseNumber": "OS/241/2019",
+        "petitioner": "Rajendiran",
+        "respondent": "Samydurai",
+        "advocates": "PALANIMUTHU R, R. SURESHKUMAR"
+      },
+      {
+        "srNo": 95,
+        "caseNumber": "OS/277/2022",
+        "petitioner": "Kaliyamoorthy",
+        "respondent": "Kolanji",
+        "advocates": "PALANIMUTHU R, SHANMUGANATHAN M"
+      },
+      {
+        "srNo": 96,
+        "caseNumber": "OS/18/2022",
+        "petitioner": "Balakrishnan",
+        "respondent": "Parameshwari",
+        "advocates": "PALANIMUTHU R, STALIN T S"
+      },
+      {
+        "srNo": 97,
+        "caseNumber": "OS/104/2019",
+        "petitioner": "Appadurai",
+        "respondent": "Renganathan",
+        "advocates": "PALANIMUTHU R, STALIN T S"
+      },
+      {
+        "srNo": 98,
+        "caseNumber": "OS/68/2025",
+        "petitioner": "Ramalingam",
+        "respondent": "Kaveriyammal",
+        "advocates": "PALANIMUTHU R, UTHIRAPATHI R"
+      },
+      {
+        "srNo": 99,
+        "caseNumber": "OS/317/2019",
+        "petitioner": "Sivaperumal",
+        "respondent": "Magarajan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 100,
+        "caseNumber": "OS/143/2018",
+        "petitioner": "Adaikalasamy",
+        "respondent": "Sebasthiyan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 101,
+        "caseNumber": "OS/116/2022",
+        "petitioner": "Selvi",
+        "respondent": "Maharajan",
+        "advocates": "PALANIMUTHU R, RAJAVADIVEL R"
+      },
+      {
+        "srNo": 102,
+        "caseNumber": "OS/171/2021",
+        "petitioner": "Muralitharan",
+        "respondent": "Senbagavally",
+        "advocates": "PALANIMUTHU R, R. SURESH KUMAR"
+      },
+      {
+        "srNo": 103,
+        "caseNumber": "EP/34/2024",
+        "petitioner": "Akilandam Ammal rep by Husband Pachamuthu",
+        "respondent": "Elavarasan",
+        "advocates": "Palanimuthu R RAJARATHINAM"
+      },
+      {
+        "srNo": 104,
+        "caseNumber": "OS/36/2019",
+        "petitioner": "Rajeshwari",
+        "respondent": "Dhanalakshmi",
+        "advocates": "R. KOLANCHINATHAN, PALANIMUTHU R"
+      },
+      {
+        "srNo": 105,
+        "caseNumber": "OS/100067/2011",
+        "petitioner": "Murugesan",
+        "respondent": "M.S.Ganesan (D1)",
+        "advocates": "R.Palanimuthu. B.Sc.,M.L., P.Murugesan, B.Sc., B.L.,"
+      },
+      {
+        "srNo": 106,
+        "caseNumber": "OS/80/2018",
+        "petitioner": "Mahalashmi",
+        "respondent": "Vanasatchi",
+        "advocates": "R. SURESH KUMAR, PALANIMUTHU R"
+      },
+      {
+        "srNo": 107,
+        "caseNumber": "OS/27/2021",
+        "petitioner": "Kannan",
+        "respondent": "Senthilkumar",
+        "advocates": "SATHIYASEELAN P, PALANIMUTHU R"
+      },
+      {
+        "srNo": 108,
+        "caseNumber": "OS/120/2025",
+        "petitioner": "Pazhamalai",
+        "respondent": "Amutha",
+        "advocates": "STALIN T S, PALANIMUTHU R"
+      },
+      {
+        "srNo": 109,
+        "caseNumber": "OS/99/2025",
+        "petitioner": "Varatharajan",
+        "respondent": "Sekar",
+        "advocates": "UTHIRAPATHI R, PALANIMUTHU R"
+      },
+      {
+        "srNo": 110,
+        "caseNumber": "OS/8/2020",
+        "petitioner": "Aandal",
+        "respondent": "Ramalingam",
+        "advocates": "Vishveshvaran R, PALANIMUTHU R"
+      }
+    ],
+    "Judicial Magistrate No. II Court, Jayankondam": [
+      {
+        "srNo": 111,
+        "caseNumber": "CC/148/2022",
+        "petitioner": "State by Inspector of Police, Andimadam P.S.",
+        "respondent": "Joseph",
+        "advocates": "APP, PALANIMUTHU R"
+      },
+      {
+        "srNo": 112,
+        "caseNumber": "CC/200235/2017",
+        "petitioner": "State reb by Inspector of Police Meensurity P.S.",
+        "respondent": "Babu @ Rajeshbabu",
+        "advocates": "Assistant Public Procecutor, PALANIMUTHU R"
+      },
+      {
+        "srNo": 113,
+        "caseNumber": "CRLMP/3195/2024",
+        "petitioner": "Mariyadass",
+        "respondent": "Vasanthi",
+        "advocates": "Palanimuthu R RAJARATHINAM"
+      }
+    ],
+    "Sub Court, Jayankondam": [
+      {
+        "srNo": 114,
+        "caseNumber": "OS/99/2025",
+        "petitioner": "Kunjithabatham",
+        "respondent": "Kodiswaran",
+        "advocates": "JAYARAMAN R, PALANIMUTHU R"
+      },
+      {
+        "srNo": 115,
+        "caseNumber": "OS/98/2025",
+        "petitioner": "Kunjithabatham",
+        "respondent": "Kodiswaran",
+        "advocates": "JAYARAMAN R, PALANIMUTHU R"
+      },
+      {
+        "srNo": 116,
+        "caseNumber": "MCOP/37/2025",
+        "petitioner": "Ranjani",
+        "respondent": "Thangamani",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 117,
+        "caseNumber": "OS/321/2025",
+        "petitioner": "Kesavan",
+        "respondent": "Thendral",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 118,
+        "caseNumber": "OS/245/2025",
+        "petitioner": "Sundarrajan",
+        "respondent": "Anjammal",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 119,
+        "caseNumber": "OS/127/2025",
+        "petitioner": "Arockiam",
+        "respondent": "Radhakrishnan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 120,
+        "caseNumber": "OS/372/2024",
+        "petitioner": "Rajendran",
+        "respondent": "Kolanjinathan",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 121,
+        "caseNumber": "OS/92/2024",
+        "petitioner": "Sudha",
+        "respondent": "Thamizhselvi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 122,
+        "caseNumber": "OS/92/2024",
+        "petitioner": "Sudha",
+        "respondent": "Thamizhselvi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 123,
+        "caseNumber": "OS/92/2024",
+        "petitioner": "Sudha",
+        "respondent": "Thamizhselvi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 124,
+        "caseNumber": "OS/92/2024",
+        "petitioner": "Sudha",
+        "respondent": "Thamizhselvi",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 125,
+        "caseNumber": "OS/20/2024",
+        "petitioner": "Anbazhagan",
+        "respondent": "Selvakumar",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 126,
+        "caseNumber": "OS/20/2024",
+        "petitioner": "Anbazhagan",
+        "respondent": "Selvakumar",
+        "advocates": "PALANIMUTHU R"
+      },
+      {
+        "srNo": 127,
+        "caseNumber": "OS/190/2025",
+        "petitioner": "Michael",
+        "respondent": "Thirumurugan (a) Murugan",
+        "advocates": "PALANIMUTHU R, JANAKAR K"
+      },
+      {
+        "srNo": 128,
+        "caseNumber": "OS/373/2024",
+        "petitioner": "Arockiyam",
+        "respondent": "Radhakrishnan",
+        "advocates": "PALANIMUTHU R, JOTHIMANI T"
+      },
+      {
+        "srNo": 129,
+        "caseNumber": "OS/73/2025",
+        "petitioner": "Michael",
+        "respondent": "Kasthuri",
+        "advocates": "PALANIMUTHU R, R. SURESHKUMAR"
+      },
+      {
+        "srNo": 130,
+        "caseNumber": "OS/72/2025",
+        "petitioner": "Michael",
+        "respondent": "Kasthuri",
+        "advocates": "PALANIMUTHU R, R. SURESHKUMAR"
+      },
+      {
+        "srNo": 131,
+        "caseNumber": "OS/288/2025",
+        "petitioner": "Diravidamani",
+        "respondent": "Bala (a) Rengarajan",
+        "advocates": "PARAMASIVAM T, PALANIMUTHU R"
+      },
+      {
+        "srNo": 132,
+        "caseNumber": "EP/66/2021",
+        "petitioner": "Jayapriya Chit Funds Private Limited",
+        "respondent": "S. Murugan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 133,
+        "caseNumber": "EP/66/2021",
+        "petitioner": "Jayapriya Chit Funds Private Limited",
+        "respondent": "S. Murugan",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 134,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 135,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 136,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 137,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 138,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 139,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 140,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 141,
+        "caseNumber": "OS/245/2020",
+        "petitioner": "Ambigai",
+        "respondent": "Manimekalai",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 142,
+        "caseNumber": "IP/2/2021",
+        "petitioner": "Balasubramaniyan",
+        "respondent": "Jakkubai",
+        "advocates": "R.PALANIMUTHU"
+      },
+      {
+        "srNo": 143,
+        "caseNumber": "MCOP/31/2021",
+        "petitioner": "Arumainathan",
+        "respondent": "Dharmaraj",
+        "advocates": "R.PALANIMUTHU, R1 died No legal heirsof R1"
+      },
+      {
+        "srNo": 144,
+        "caseNumber": "MCOP/125/2022",
+        "petitioner": "Prabhu",
+        "respondent": "Anburaj",
+        "advocates": "R.PALANIMUTHU, THIRUMALCHOLAN S"
+      },
+      {
+        "srNo": 145,
+        "caseNumber": "OS/243/2022",
+        "petitioner": "Arumugam Family Manager",
+        "respondent": "Veerasamy",
+        "advocates": "R. SURESHKUMAR, R.PALANIMUTHU"
+      },
+      {
+        "srNo": 146,
+        "caseNumber": "EP/68/2024",
+        "petitioner": "Dharmalingam",
+        "respondent": "kannappan",
+        "advocates": "Stalin T Stalin T, PALANIMUTHU R"
+      },
+      {
+        "srNo": 147,
+        "caseNumber": "OS/146/2021",
+        "petitioner": "Jayanthi",
+        "respondent": "Paneerselvam",
+        "advocates": "SUTHAKAR U, R.PALANIMUTHU"
+      },
+      {
+        "srNo": 148,
+        "caseNumber": "OS/50/2024",
+        "petitioner": "Canara Bank Elaiyur Rep by Branch Manager",
+        "respondent": "Suganthi",
+        "advocates": "VAHITHSHA K VAHITHSHA K, PALANIMUTHU R"
+      }
+    ]
+  }
+}

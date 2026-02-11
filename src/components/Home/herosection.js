@@ -1,8 +1,18 @@
 import React from 'react'
 import trust from '../../assets/trusted.png';
-import profile from '../../assets/ad2.jpeg';
+import profile1 from '../../assets/ad1.jpeg';
+import profile2 from '../../assets/ad2.jpeg';
+import profile3 from '../../assets/ad3.jpeg';
+import profile4 from '../../assets/ad4.jpeg';
 import { useLanguage } from "../../LanguageContext.js";
 import { NavLink } from 'react-router-dom';
+
+import { Swiper, SwiperSlide } from "swiper/react";
+
+import "swiper/css";
+import "swiper/css/autoplay";
+
+import { Autoplay } from "swiper/modules";
 
 function Herosection() {
     const { t } = useLanguage();
@@ -61,7 +71,30 @@ function Herosection() {
                     </div>
                     <div className="hero-image">
                         <div className="image-container">
-                            <img src={profile} alt="Advocate R. Palani Muthu" />
+                            <Swiper
+                                modules={[Autoplay]}
+                                autoplay={{
+                                    delay: 2000,
+                                    disableOnInteraction: false,
+                                }}
+                                loop={true}
+                                slidesPerView={1}
+                                className="mySwiper"
+                            >
+                                <SwiperSlide>
+                                    <img src={profile1} alt="Advocate R. Palani Muthu" />
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <img src={profile2} alt="Advocate R. Palani Muthu" />
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <img src={profile3} alt="Advocate R. Palani Muthu" />
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <img src={profile4} alt="Advocate R. Palani Muthu" />
+                                </SwiperSlide>
+                            </Swiper>
+                            {/* <img src={profile1} alt="Advocate R. Palani Muthu" /> */}
                             <div className="video-badge">
                                 <span>"{t("all")}"</span>
                             </div>

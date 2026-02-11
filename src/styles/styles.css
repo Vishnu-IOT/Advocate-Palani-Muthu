@@ -369,7 +369,7 @@ button {
     width: 80%;
 }
 
-.image-container {
+/* .image-container {
     position: relative;
     border-radius: 14px;
     overflow: hidden;
@@ -381,6 +381,15 @@ button {
     height: 300px;
     object-fit: cover;
     display: block;
+} */
+
+.image-container {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: var(--shadow-xl);
 }
 
 .video-badge {
@@ -401,6 +410,7 @@ button {
     margin-left: 1%;
     border-radius: 12px;
     justify-content: center;
+    z-index: 1;
 }
 
 /* Practice Areas Section */
@@ -1070,11 +1080,57 @@ a {
     text-align: center;
 }
 
+.mySwiper {
+    width: 100%;
+    height: 100%;
+}
+
+/* Each slide */
+.mySwiper .swiper-slide {
+    width: 100%;
+    height: 100%;
+}
+
+/* Images */
+.mySwiper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+@media (max-width: 480px) {
+    .swiper-slide {
+        width: 100%;
+        height: 200px;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+    }
+
+    .image-container {
+        width: 280px;
+    }
+}
+
 /* Responsive Design */
 
 /* ========================================
    TABLET PORTRAIT (640px - 767px)
    ======================================== */
+@media (max-width: 768px) {
+    .image-container {
+        width: 220px;
+    }
+}
+
 @media (max-width: 767px) {
     .container {
         max-width: 760px;
@@ -1116,8 +1172,12 @@ a {
         width: 100%;
     }
 
-    .image-container img {
+    /* .image-container img {
         height: 300px;
+    } */
+
+    .image-container {
+        width: 300px;
     }
 
     .video-badge {
@@ -1376,8 +1436,12 @@ a {
         margin-bottom: 24px;
     }
 
-    .image-container img {
+    /* .image-container img {
         height: 280px;
+    } */
+
+    .image-container {
+        height: 300px;
     }
 
     .video-badge {
@@ -1785,8 +1849,11 @@ a {
         height: auto;
     }
 
-    .image-container img {
+    /* .image-container img {
         height: 250px;
+    } */
+    .image-container {
+        width: 280px;
     }
 
     .video-badge {
@@ -2177,8 +2244,11 @@ a {
         width: 35%;
     }
 
-    .image-container img {
+    /* .image-container img {
         height: 220px;
+    } */
+    .image-container {
+        height: 300px;
     }
 
     .stats-grid {

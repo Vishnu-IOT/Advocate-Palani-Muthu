@@ -270,6 +270,51 @@ body {
     border-left: 4px solid #2563eb;
 }
 
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.case-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.case-table th,
+.case-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.case-table th {
+    background: #f3f4f6;
+    text-align: left;
+}
+
+.court-title {
+    margin: 10px 0 0px;
+    font-weight: bold;
+    border: 2px solid transparent;
+    background: rgb(66, 65, 65);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.court-complex {
+    color: red;
+    text-align: center;
+}
+
+.court-sub {
+    color: var(--primary-blue);
+    text-align: center;
+}
+
+
 /* Responsive Design */
 @media (max-width: 968px) {
     .services-grid {

@@ -75,4 +75,3 @@ function Officeinfo() {
 }
 
 export default Officeinfo;
-
