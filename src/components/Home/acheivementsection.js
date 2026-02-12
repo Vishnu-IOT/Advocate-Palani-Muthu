@@ -1,14 +1,15 @@
 import React from "react";
 import scholar from "../../assets/scholar.png";
 import { useLanguage } from "../../LanguageContext.js";
+import Counter from "../../helpers/counter.js";
 
 function Acheivementsection() {
     const { t } = useLanguage();
 
     const stats = [
-        { number: "25+", key: "years" },
-        { number: "1500+", key: "cases" },
-        { number: "98%", key: "success" },
+        { number: 25, key: "years" },
+        { number: 1500, key: "cases" },
+        { number: 98, key: "success" },
         { number: "Top", key: "rated" }
     ];
 
@@ -34,7 +35,10 @@ function Acheivementsection() {
                     {stats.map((stat, index) => (
                         <div className="stat-card" key={index}>
                             <h3 className="stat-number-large">
-                                {stat.number}
+                                {stat.number !== "Top" ?
+                                    (<><Counter start={1} end={stat.number} duration={2000} />{stat.number === 98 ? ("%") : ("+")}</>) :
+                                    (stat.number)
+                                }
                             </h3>
                             <p className="stat-label-large">
                                 {t(`achievement_stats.${stat.key}`)}
@@ -68,3 +72,4 @@ function Acheivementsection() {
 }
 
 export default Acheivementsection;
+
